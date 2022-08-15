@@ -1,9 +1,10 @@
-# Learning the statistics of pain: computational and neural mechanisms.
+# Computational and neural mechanisms of statistical pain learning
+by Flavia Mancini, Suyi Zhang and Ben Seymour
 
 ## Introduction
 
-This is the code used for behavioural and neuroimaging data analyses in the paper 'Learning the statistics of pain: computational and neural mechanisms' (submitted). 
-<!-- An older preprint version of the paper can be found on biorxiv: [Endogenous controllability of closed-loop brain-machine interfaces for pain](https://www.biorxiv.org/content/10.1101/369736v1). -->
+This is the code used for behavioural and neuroimaging data analyses in the paper 'Computational and neural mechanisms of statistical pain learning' accepted for publication in Nature Communications. 
+An older preprint version of the paper can be found on biorxiv: https://www.biorxiv.org/content/10.1101/2021.10.21.465270v1.
 
 ## Usage
 For behavioural data analysis, the following directories contain code for specific use. 
